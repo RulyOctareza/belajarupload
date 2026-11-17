@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/preview/hero.png" alt="Belajar Dart — ilustrasi materi belajar Dart" width="100%">
+  <img src="docs/preview/hero.svg" alt="Belajar Dart — ilustrasi materi belajar Dart" width="100%">
 </p>
 
 <h1 align="center">Belajar Upload — Arsip Belajar Dart</h1>
